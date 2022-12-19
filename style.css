@@ -1,8 +1,19 @@
 
-
-h1{
-    color:red;
+body{
+    background-color: rgb(244, 244, 137);
+    text-align: center;
 }
-title{
-    color:blue;
+#message{
+    font-size: 150px;
+}
+#greeting{
+font-style: italic;
+font-size: 80px;
+}
+#prompt{
+    font-size: 40px;
+}
+button{
+    background-color:rgb(255, 161, 175);
+    color:white;
 }
